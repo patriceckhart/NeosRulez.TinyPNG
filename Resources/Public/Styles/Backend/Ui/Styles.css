@@ -1,0 +1,4 @@
+button[title="TinyPNG"] { padding: 0 9px; }
+button[title="TinyPNG"]::before {
+    content:'🐼'; display:block;
+}

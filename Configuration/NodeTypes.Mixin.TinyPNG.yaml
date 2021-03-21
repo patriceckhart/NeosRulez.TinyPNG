@@ -1,0 +1,22 @@
+'NeosRulez.TinyPNG:Mixin.TinyPNG':
+  abstract: true
+  ui:
+    inspector:
+      tabs:
+        tinypng:
+          label: i18n
+          position: end
+      groups:
+        tinypng:
+          label: i18n
+          tab: tinypng
+          icon: far fa-image
+  properties:
+    optimize:
+      type: boolean
+      defaultValue: false
+      ui:
+        label: i18n
+        reloadIfChanged: true
+        inspector:
+          group: tinypng

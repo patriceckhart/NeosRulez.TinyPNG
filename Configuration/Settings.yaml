@@ -1,8 +1,18 @@
 Neos:
   Neos:
+    Ui:
+      resources:
+        stylesheets:
+          NeosRulez.TinyPNG:
+            resource: '${"resource://NeosRulez.TinyPNG/Public/Styles/Backend/Ui/Styles.css"}'
     fusion:
       autoInclude:
         NeosRulez.TinyPNG: true
+    userInterface:
+      translation:
+        autoInclude:
+          NeosRulez.TinyPNG:
+            - 'NodeTypes/*'
 NeosRulez:
   TinyPNG:
     apiKey: 'your-api-key'
