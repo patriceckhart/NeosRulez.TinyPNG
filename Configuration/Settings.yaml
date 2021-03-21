@@ -1,0 +1,8 @@
+Neos:
+  Neos:
+    fusion:
+      autoInclude:
+        NeosRulez.TinyPNG: true
+NeosRulez:
+  TinyPNG:
+    apiKey: 'your-api-key'

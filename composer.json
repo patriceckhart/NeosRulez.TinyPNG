@@ -1,0 +1,19 @@
+{
+  "description": "A package to automate your JPEG and PNG compression workflow with the TinyPNG API in Neos CMS.",
+  "type": "neos-package",
+  "name": "neosrulez/tinypng",
+  "require": {
+    "neos/neos": "*",
+    "tinify/tinify": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "NeosRulez\\TinyPNG\\": "Classes/"
+    }
+  },
+  "extra": {
+    "neos": {
+      "package-key": "NeosRulez.TinyPNG"
+    }
+  }
+}

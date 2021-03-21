@@ -1,0 +1,4 @@
+prototype(NeosRulez.TinyPNG:Class.TinyPNG) {
+    @class = 'NeosRulez\\TinyPNG\\Fusion\\TinyPNGFusion'
+    imageUri = false
+}
