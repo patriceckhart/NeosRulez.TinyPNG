@@ -2,7 +2,7 @@
 
 Fusion class for optimizing images (JPEG and PNG) with TinyPNG directly in Neos CMS.
 
-![TinyPNG](https://raw.githubusercontent.com/patriceckhart/NeosRulez.TinyPNG/master/TinyPNG.png)
+<img src="https://raw.githubusercontent.com/patriceckhart/NeosRulez.TinyPNG/master/TinyPNG.png" width="332" height="326" />
 
 ## Usage
 
